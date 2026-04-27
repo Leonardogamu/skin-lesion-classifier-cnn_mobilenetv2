@@ -12,6 +12,10 @@ Proyecto academico de Deep Learning para la **clasificación de lesiones de piel
 - Loss Obtenido: 0.5965
 - Se entreno el modelo utilizando MobileNetV2 con 2 etapas de File Tuning para descongelar distintas cantidades de capas (Transfer Learning)
 
+## Ejemplos de predicciónes/estimaciones
+
+![Predicciones del modelo](images/TestSet.jpg)
+
 ### Clonar repositorio
 ```bash
 git clone https://github.com/[tu-usuario]/skin-lesion-classifier-cnn_mobilenetv2.git
